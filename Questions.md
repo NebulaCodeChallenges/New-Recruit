@@ -57,12 +57,12 @@ Don't make any change to the class Animal.
     {
         public string Eat()
         {
-            Console.WriteLine("Yummy");
+            return "Yummy";
         }
 
         public virtual string MakeNoise()
         {
-            Console.WriteLine("Durrr");
+            return "Durrr";
         }
     }
     
