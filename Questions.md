@@ -73,7 +73,7 @@ Don't make any change to the properties (methods) of the class Animal.
             return "Yummy";
         }
 
-        public virtual string MakeNoise()
+        string MakeNoise()
         {
             return "Neigh";
         }
@@ -86,7 +86,7 @@ Don't make any change to the properties (methods) of the class Animal.
             return "Yummy";
         }
 
-        public virtual string MakeNoise()
+        string MakeNoise()
         {
             return "Baaah";
         }
