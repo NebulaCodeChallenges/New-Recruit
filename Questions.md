@@ -50,7 +50,7 @@ This task is about code refactoring. Below you are given classes Animal, Horse a
 
 You need to refactor Horse and Sheep as you see fit. The goal is to make the classes more maintainable. You should apply any principles or patterns you think are necessary.
 
-Don't make any change to the class Animal.
+Don't make any change to the elements or methods of the class Animal.
 
 ```csharp
     public class Animal
