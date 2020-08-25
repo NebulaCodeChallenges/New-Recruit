@@ -3,7 +3,7 @@
 ## Question 1
 
 Please see the attached EDR diagram image. The diagram was submitted as a solution to storing employee Cellphone data, voice and sms usage.
-Discuss at least one improvement that can be done to the ERD.
+Discuss at least one improvement that can be done to the EDR.
 
 ## Question 2
 
