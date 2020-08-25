@@ -46,9 +46,9 @@ Write a C# method that will take, as input, a string and dependent on the string
 3. If the length is a multiple of 2 and 4 your method must print out "Stack Overflow!"
 
 ## Question 2
-This task is about code refactoring. Below you are given 4 classes Animal, Dog, Horse and Sheep.
+This task is about code refactoring. Below you are given classes Animal, Horse and Sheep.
 
-You need to refactor Dog, Horse and Sheep as you see fit. The goal is to make the classes more maintainable. You should apply any principles or patterns you think are necessary.
+You need to refactor Horse and Sheep as you see fit. The goal is to make the classes more maintainable. You should apply any principles or patterns you think are necessary.
 
 Don't make any change to the class Animal.
 
@@ -63,19 +63,6 @@ Don't make any change to the class Animal.
         public virtual string MakeNoise()
         {
             return "Durrr";
-        }
-    }
-    
-    class Dog
-    {
-        public string Eat()
-        {
-            return "Yummy";
-        }
-
-        public virtual string MakeNoise()
-        {
-            return "Woof";
         }
     }
     
