@@ -68,12 +68,12 @@ Don't make any change to the class Animal.
     
     class Horse
     {
-        public string Eat()
+        string Eat()
         {
             return "Yummy";
         }
 
-        public virtual string MakeNoise()
+        virtual string MakeNoise()
         {
             return "Neigh";
         }
@@ -81,12 +81,12 @@ Don't make any change to the class Animal.
     
     class Sheep
     {
-        public string Eat()
+        string Eat()
         {
             return "Yummy";
         }
 
-        public virtual string MakeNoise()
+        virtual string MakeNoise()
         {
             return "Baaah";
         }
