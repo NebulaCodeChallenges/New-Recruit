@@ -91,7 +91,7 @@ Don't make any change to the properties (methods) of the class Animal.
             return "Baaah";
         }
     }
-}
+
 
 ```
 # Front-end Code Challenges
